@@ -1,0 +1,2 @@
+gsutil cp gs://iasonas-bucket/hist_values_scraper_script.py ./comics/
+gsutil cp gs://iasonas-bucket/all_data.parquet ./comics
