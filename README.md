@@ -1,4 +1,5 @@
-# BigBlueData_Academy_Clustering_project
+# Comics & ML
+### BigBlueData_Academy_Clustering_project
 
 This is the 4th project for the 2021-2022 Big Blue Academy Data Science Bootcamp. In this project, we use clustering to draw insights on what makes a comic book valuable!
 
