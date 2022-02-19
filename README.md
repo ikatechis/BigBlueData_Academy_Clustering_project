@@ -27,11 +27,17 @@ Take a look at a [typical series link](https://comicbookrealm.com/series/5871/0/
 
 **`comic_data.csv`**:
 Includes all information about each single issue that could be scraped. In detail:
+
 `title`: the series title
+
 `title_link`: the link to the title in the website
+
 `issue_link`: the link to each issue of the title
+
 `cover_link`: the link to the cover image of the issue
+
 `issue`: the number of the issue
+
 `cover_date`: the date (month and year) the issue was released
 `cover_price`: the price in which the issue was sold
 `current_value`: the highest price the issues was ever sold
