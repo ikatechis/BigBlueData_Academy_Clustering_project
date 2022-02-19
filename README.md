@@ -92,3 +92,7 @@ Includes all information about each single issue that could be scraped. In detai
 What makes a comic valuable?
 What common characteristics do valuable comics share?
 What other data would be needed to put odds on a comic book rising in value?
+
+## Results and Presentation
+
+3 Clusters where created by a Kmeans algorithm. 
