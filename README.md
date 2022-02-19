@@ -103,4 +103,4 @@ We named them Superman, Batman and Aquaman!
 
 ![clusters](https://github.com/ikatechis/BigBlueData_Academy_Comics_Clustering_project/blob/main/images/top10/clusters_slide.png)
 
-If interested see out full presentation on [Google Slides](https://docs.google.com/presentation/d/1XBzAv7yahQ4TOGEdV4k-u0tzVMGlEVYWUdLh7aJllX0/edit?usp=sharing)
+If interested see our full presentation on [Google Slides](https://docs.google.com/presentation/d/1XBzAv7yahQ4TOGEdV4k-u0tzVMGlEVYWUdLh7aJllX0/edit?usp=sharing)
