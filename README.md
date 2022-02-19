@@ -76,7 +76,7 @@ Includes all information about each single issue that could be scraped. In detai
 
 `pub_id`: the unique publisher's id as given by the website
 
-'volume': volume number of the title or whether it is a one-shot, mini-series, limited-series etc.
+`volume`: volume number of the title or whether it is a one-shot, mini-series, limited-series etc.
 
 `years`: The year span the title was published
 
