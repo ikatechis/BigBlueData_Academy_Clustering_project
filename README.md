@@ -98,3 +98,7 @@ What other data would be needed to put odds on a comic book rising in value?
 3 Clusters where created by a Kmeans algorithm.
 
 ![silhouette](https://github.com/ikatechis/BigBlueData_Academy_Comics_Clustering_project/blob/main/images/top10/clusters_plots_slide.png)
+
+We named them Superman, Batman and Aquaman!
+
+![clusters](https://github.com/ikatechis/BigBlueData_Academy_Comics_Clustering_project/blob/main/images/top10/clusters_slide.png)
