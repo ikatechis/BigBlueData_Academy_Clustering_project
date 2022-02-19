@@ -20,7 +20,7 @@ I plan to repeat the scraping from time to time in order to update the dataset w
 
 ### Content
 
-The dataset can be downloaded in .csv and .parquet format for a more convenient size:
+The [dataset can be downloaded](https://www.kaggle.com/iasonaskatechis/comic-books-current-values-and-other-data) from kaggle in .csv and .parquet format for a more convenient size:
 **
 Note: it all columns giving a link the address of the website `https://comicbookrealm.com/` should be added at the beginning of each string.**
 
