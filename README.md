@@ -95,4 +95,6 @@ What other data would be needed to put odds on a comic book rising in value?
 
 ## Results and Presentation
 
-3 Clusters where created by a Kmeans algorithm. 
+3 Clusters where created by a Kmeans algorithm.
+
+![silhouette](/images/clusters_plots_slide.png)
